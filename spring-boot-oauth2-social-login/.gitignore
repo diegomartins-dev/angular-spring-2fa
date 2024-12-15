@@ -1,1 +1,6 @@
+# Ignorar o arquivo application.properties
 src/main/resources/application.properties
+
+# Outras regras de .gitignore
+*.log
+target/
