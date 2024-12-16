@@ -9,9 +9,3 @@
 [Secure Spring Boot Angular Application with Two Factor Authentication](https://www.javachinna.com/spring-boot-angular-two-factor-authentication/)
 
 [Dockerize Angular with NGINX and Spring Boot with MySQL using Docker Compose](https://www.javachinna.com/angular-nginx-spring-boot-mysql-docker-compose/)
-
-## CHAVES DO GOOGLE
-
-spring.security.oauth2.client.registration.google.clientId=539628264530-29b5fpedi5p0svu4m5cunon5iekg6m96.apps.googleusercontent.com
-
-spring.security.oauth2.client.registration.google.clientSecret=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
